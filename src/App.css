@@ -1,0 +1,26 @@
+html{
+ overflow-x: hidden;
+}
+#textarea{
+  resize:none;
+}
+#textarea:focus{
+   box-shadow: none;
+   border-color: #cdcece;
+}
+#nav{
+  background-color: #5cb85c;
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.gray{
+  background-color:#e0e3e4;
+}
+#logo{
+    font-size: 1.4rem;
+    font-style: normal;
+}

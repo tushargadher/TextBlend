@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextBlend/static/css/main.bdf8c63a.css",
+    "main.js": "/TextBlend/static/js/main.6873451c.js",
+    "static/js/787.de2f0380.chunk.js": "/TextBlend/static/js/787.de2f0380.chunk.js",
+    "index.html": "/TextBlend/index.html",
+    "main.bdf8c63a.css.map": "/TextBlend/static/css/main.bdf8c63a.css.map",
+    "main.6873451c.js.map": "/TextBlend/static/js/main.6873451c.js.map",
+    "787.de2f0380.chunk.js.map": "/TextBlend/static/js/787.de2f0380.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf8c63a.css",
+    "static/js/main.6873451c.js"
+  ]
+}
